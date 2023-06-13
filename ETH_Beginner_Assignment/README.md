@@ -1,4 +1,4 @@
-# Hello World
+# TOKEN CONTRACT
 
 This Solidity program is a contract that creates an Token and sent to users/addresses. This is my Metacrafters ETH Beginner Final Project
 ## Description
