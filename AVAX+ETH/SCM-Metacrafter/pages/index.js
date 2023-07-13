@@ -127,7 +127,7 @@ function App() {
 
   return (
     <div className='container' style={{height:"90vh", display:"flex", flexDirection:"column", alignItems:"center"}}>
-      <h1>Welcome to THE SHOP!</h1>
+      <h1>Welcome to THE COUNTER!</h1>
       <Home/>
     </div>
   )
